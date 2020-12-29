@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "532590888890",
+    "firebase_url": "https://authenticationtest-aa6ab.firebaseio.com",
+    "project_id": "authenticationtest-aa6ab",
+    "storage_bucket": "authenticationtest-aa6ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532590888890:android:f8001af87309f6e2127f83",
+        "android_client_info": {
+          "package_name": "com.prince.authentication_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532590888890-1immpliiesetvj4o15e6lcil722mmcvp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prince.authentication_test",
+            "certificate_hash": "98cf096be4532195e3d6ff2cdd06a2f34d438386"
+          }
+        },
+        {
+          "client_id": "532590888890-v0a78236nvcv14mmrfs1lqm1nm2flq2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoBAw8gAGJ3ohBDPq8GsDNH4JuxoF5ric"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532590888890-v0a78236nvcv14mmrfs1lqm1nm2flq2u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
